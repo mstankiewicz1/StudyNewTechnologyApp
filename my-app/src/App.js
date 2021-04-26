@@ -1,9 +1,9 @@
 import './App.css';
 
-function App() {
+const App = () => {
   return (
     <div className="App">
-      This is my app 123
+      This is my app 1235670008552211kk
     </div>
   );
 }
